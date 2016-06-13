@@ -1,6 +1,6 @@
-﻿# wav-audio-drunk-in-love
+﻿# wav-audio-bow-down
 
-This is my rendition of the song Drunk in Love by Beyonce.
+This is my rendition of the song Bow Down by Beyonce.
 
 ## Additional Requirements
 Please download this data file set from Jason McVeigh's homepage. Please download this data file set then extract to the application folder. These files are stored outside of GitHub due to GitHub's 100MB filesize limit.
